@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ishazre.com" resolutions="1x,2x" timestamp="1559138792381">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ishazre.com" resolutions="1x,2x" timestamp="1559148627130">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="3872540834" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="126777281" ref="index"/>
-    <file name="index.css" crc="468615625" ref="index"/>
-    <file name="nomq_index.css" crc="3920769758" ref="index"/>
+    <file name="index.css" crc="4204397994" ref="index"/>
+    <file name="nomq_index.css" crc="4105608710" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -698,5 +698,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="168453627" seo="true" mt="1559138619350" redirect="true"/>
+  <file name="index.html" crc="480330599" seo="true" mt="1559145589811" redirect="true"/>
 </manifest>
