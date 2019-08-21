@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ishazre.com" resolutions="1x,2x" timestamp="1566397303647">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ishazre.com" resolutions="1x,2x" timestamp="1566399318505">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="408494212" ref="index"/>
+    <file name="master_a-master.css" crc="352032378" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="4035158227" ref="index"/>
-    <file name="index.css" crc="299067123" ref="index"/>
-    <file name="nomq_index.css" crc="4065665849" ref="index"/>
+    <file name="index.css" crc="415860943" ref="index"/>
+    <file name="nomq_index.css" crc="113078369" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -741,6 +741,14 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="undraw_air_support_wy1q_poster_.png" crc="315340409" ref="index"/>
+    <file name="linkedin (1).svg" crc="3905979928" ref="index"/>
+    <file name="linkedin (1)_poster_u44591.png" crc="4174842420" ref="index"/>
+    <file name="facebook.svg" crc="4242405670" ref="index"/>
+    <file name="facebook_poster_u44524.png" crc="4217356037" ref="index"/>
+    <file name="twitter.svg" crc="4033200823" ref="index"/>
+    <file name="twitter_poster_u44548.png" crc="4145418658" ref="index"/>
+    <file name="youtube.svg" crc="264445104" ref="index"/>
+    <file name="youtube_poster_u44574.png" crc="3957689181" ref="index"/>
   </folder>
-  <file name="index.html" crc="3986513313" seo="true" mt="1566397045158" redirect="true"/>
+  <file name="index.html" crc="3922311702" seo="true" mt="1566399215248" redirect="true"/>
 </manifest>
