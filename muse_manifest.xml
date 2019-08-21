@@ -1,18 +1,16 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ishazre.com" resolutions="1x,2x" timestamp="1559148627130">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ishazre.com" resolutions="1x,2x" timestamp="1566386919672">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="3872540834" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="126777281" ref="index"/>
-    <file name="index.css" crc="4204397994" ref="index"/>
-    <file name="nomq_index.css" crc="4105608710" ref="index"/>
+    <file name="master_a-master.css" crc="408494212" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="4035158227" ref="index"/>
+    <file name="index.css" crc="329732441" ref="index"/>
+    <file name="nomq_index.css" crc="221945343" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
     <file name="museutils.js" crc="340535759" ref="index"/>
     <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="4286661555" ref="index"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index"/>
-    <file name="jquery.musemenu.js" crc="510910590" ref="index"/>
+    <file name="museconfig.js" crc="462583865" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
     <file name="webpro.js" crc="4059564322" ref="index"/>
     <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
@@ -22,6 +20,8 @@
     <file name="form_throttle.php" crc="4259590256" ref="index"/>
     <file name="form_process.php" crc="37464564" ref="index"/>
     <file name="form-u20216.php" crc="3767785576" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index"/>
     <file name="musewpdisclosure.js" crc="3883500470" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
     <file name="html5shiv.js" crc="4241844378" ref="index"/>
@@ -30,7 +30,7 @@
   </folder>
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="image012.gif" crc="4251283125" seo="true" ref="index">
+    <file name="buy-house-mod.svg" crc="4085724432" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -41,7 +41,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="image012_2x.gif" crc="4251283125" seo="true" ref="index">
+    <file name="buy house mod_poster_.png" crc="196787571" ref="index"/>
+    <file name="undraw_ideas.svg" crc="95488329" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -52,22 +53,35 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="8fec7442427245a116c23bb07a715374.jpg" crc="4192610006" ref="index">
+    <file name="undraw_ideas_poster_.png" crc="249961117" ref="index"/>
+    <file name="vision.svg" crc="499627762" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="8fec7442427245a116c23bb07a715374_2x.jpg" crc="4104678237" ref="index">
+    <file name="vision_poster_.png" crc="4172894827" ref="index"/>
+    <file name="undraw_in_progress_ql66-(1).svg" crc="3762493768" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="mp900411828.jpg" crc="324724554" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
+    <file name="undraw_in_progress_ql66 (1)_poster_.png" crc="3939222465" ref="index"/>
     <file name="5b169ed0e18c9d245272541d_thumbs_passports2.jpg" crc="24400370" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="architect-blueprint.jpg" crc="180926146" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="laptop.svg" crc="4240198312" seo="true" ref="index">
+    <file name="smartphone.svg" crc="473437555" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -78,19 +92,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="laptop_poster_.png" crc="257869334" ref="index"/>
-    <file name="smartphone.svg" crc="280800649" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="smartphone_poster_.png" crc="382597436" ref="index"/>
+    <file name="smartphone_poster_.png" crc="74414151" ref="index"/>
     <file name="house-(1).svg" crc="124032442" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -103,9 +105,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="house (1)_poster_.png" crc="3883291563" ref="index"/>
-    <file name="investment-strategy.jpg" crc="504226214" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="management-(1).svg" crc="3994808560" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -141,14 +140,11 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="brainstorm_poster_.png" crc="12330929" ref="index"/>
-    <file name="matte_white_gallery_perspective_many_canvasses_1600x1372.jpg" crc="3954920292" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
+    <file name="brainstorm_poster_.png" crc="12257292" ref="index"/>
     <file name="building_house_cottage_style_design_49252_1920x1080-crop-u16762.jpg" crc="3969672952" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="finished-house-2017-crop-u17088.jpg" crc="3761128768" seo="true" ref="index">
+    <file name="finished-house-2017-crop-u17088.jpg" crc="4182186896" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="a56788472a77f38b12204034e4aeccde-crop-u17364.jpg" crc="4110957770" seo="true" ref="index">
@@ -169,10 +165,10 @@
     <file name="building_house_cottage_style_design_49252_1920x1080-crop-u16781_2x.jpg" crc="411271408" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="finished-house-2017-crop-u17114.jpg" crc="4016578401" seo="true" ref="index">
+    <file name="finished-house-2017-crop-u17114.jpg" crc="3783920862" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="finished-house-2017-crop-u17114_2x.jpg" crc="4010896545" seo="true" ref="index">
+    <file name="finished-house-2017-crop-u17114_2x.jpg" crc="200681620" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="a56788472a77f38b12204034e4aeccde-crop-u17390.jpg" crc="331970140" seo="true" ref="index">
@@ -200,15 +196,44 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="contact-us-background.jpg" crc="30950786" ref="index">
+    <file name="image012.gif" crc="4251283125" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="8fec7442427245a116c23bb07a715374-u2376-fr.jpg" crc="4130922935" ref="index"/>
-    <file name="8fec7442427245a116c23bb07a715374-u2376-fr_2x.jpg" crc="388895388" ref="index"/>
+    <file name="image012_2x.gif" crc="4251283125" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mp900411828.jpg" crc="324724554" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="architect-blueprint.jpg" crc="180926146" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="investment-strategy.jpg" crc="504226214" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="matte_white_gallery_perspective_many_canvasses_1600x1372.jpg" crc="3954920292" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="building_house_cottage_style_design_49252_1920x1080-crop-u167622.jpg" crc="77703770" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="finished-house-2017-crop-u170882.jpg" crc="38150934" seo="true" ref="index">
+    <file name="finished-house-2017-crop-u170882.jpg" crc="3776041077" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="a56788472a77f38b12204034e4aeccde-crop-u173642.jpg" crc="183501244" seo="true" ref="index">
@@ -235,10 +260,10 @@
     <file name="wp2464244-crop-u17206_2x2.jpg" crc="4258980255" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="finished-house-2017-crop-u171142.jpg" crc="4016578401" seo="true" ref="index">
+    <file name="finished-house-2017-crop-u171142.jpg" crc="3783920862" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="finished-house-2017-crop-u17114_2x2.jpg" crc="4010896545" seo="true" ref="index">
+    <file name="finished-house-2017-crop-u17114_2x2.jpg" crc="200681620" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="house-background_015635614_148-crop-u172982.jpg" crc="153580300" seo="true" ref="index">
@@ -259,8 +284,9 @@
     <file name="thumb-1920-435117-crop-u17482_2x2.jpg" crc="262523787" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="8fec7442427245a116c23bb07a715374-u2376-fr2.jpg" crc="259512614" ref="index"/>
-    <file name="8fec7442427245a116c23bb07a715374-u2376-fr_2x2.jpg" crc="251594723" ref="index"/>
+    <file name="contact-us-background.jpg" crc="30950786" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="investment-strategy2.jpg" crc="226143387" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -270,7 +296,7 @@
     <file name="building_house_cottage_style_design_49252_1920x1080-crop-u167623.jpg" crc="77703770" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="finished-house-2017-crop-u170883.jpg" crc="38150934" seo="true" ref="index">
+    <file name="finished-house-2017-crop-u170883.jpg" crc="3776041077" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="a56788472a77f38b12204034e4aeccde-crop-u173643.jpg" crc="183501244" seo="true" ref="index">
@@ -297,10 +323,10 @@
     <file name="wp2464244-crop-u17206_2x3.jpg" crc="4258980255" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="finished-house-2017-crop-u171143.jpg" crc="4016578401" seo="true" ref="index">
+    <file name="finished-house-2017-crop-u171143.jpg" crc="3783920862" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="finished-house-2017-crop-u17114_2x3.jpg" crc="4010896545" seo="true" ref="index">
+    <file name="finished-house-2017-crop-u17114_2x3.jpg" crc="200681620" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="house-background_015635614_148-crop-u172983.jpg" crc="153580300" seo="true" ref="index">
@@ -330,7 +356,7 @@
     <file name="building_house_cottage_style_design_49252_1920x1080-crop-u167624.jpg" crc="77703770" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="finished-house-2017-crop-u170884.jpg" crc="38150934" seo="true" ref="index">
+    <file name="finished-house-2017-crop-u170884.jpg" crc="3776041077" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="a56788472a77f38b12204034e4aeccde-crop-u173644.jpg" crc="183501244" seo="true" ref="index">
@@ -357,10 +383,10 @@
     <file name="wp2464244-crop-u17206_2x4.jpg" crc="4258980255" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="finished-house-2017-crop-u171144.jpg" crc="4016578401" seo="true" ref="index">
+    <file name="finished-house-2017-crop-u171144.jpg" crc="3783920862" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="finished-house-2017-crop-u17114_2x4.jpg" crc="4010896545" seo="true" ref="index">
+    <file name="finished-house-2017-crop-u17114_2x4.jpg" crc="200681620" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="house-background_015635614_148-crop-u172984.jpg" crc="153580300" seo="true" ref="index">
@@ -390,7 +416,7 @@
     <file name="building_house_cottage_style_design_49252_1920x1080-crop-u167625.jpg" crc="77703770" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="finished-house-2017-crop-u170885.jpg" crc="38150934" seo="true" ref="index">
+    <file name="finished-house-2017-crop-u170885.jpg" crc="3776041077" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="a56788472a77f38b12204034e4aeccde-crop-u173645.jpg" crc="183501244" seo="true" ref="index">
@@ -417,10 +443,10 @@
     <file name="wp2464244-crop-u17206_2x5.jpg" crc="4258980255" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="finished-house-2017-crop-u171145.jpg" crc="4016578401" seo="true" ref="index">
+    <file name="finished-house-2017-crop-u171145.jpg" crc="3783920862" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="finished-house-2017-crop-u17114_2x5.jpg" crc="4010896545" seo="true" ref="index">
+    <file name="finished-house-2017-crop-u17114_2x5.jpg" crc="200681620" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="house-background_015635614_148-crop-u172985.jpg" crc="153580300" seo="true" ref="index">
@@ -441,14 +467,12 @@
     <file name="thumb-1920-435117-crop-u17482_2x5.jpg" crc="262523787" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="8fec7442427245a116c23bb07a715374-u2376-fr3.jpg" crc="3889867219" ref="index"/>
-    <file name="8fec7442427245a116c23bb07a715374-u2376-fr_2x3.jpg" crc="79538390" ref="index"/>
     <file name="investment-strategy-u11593-fr.jpg" crc="388848962" ref="index"/>
     <file name="investment-strategy-u11593-fr_2x.jpg" crc="243477171" ref="index"/>
     <file name="building_house_cottage_style_design_49252_1920x1080-crop-u167626.jpg" crc="77703770" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="finished-house-2017-crop-u170886.jpg" crc="38150934" seo="true" ref="index">
+    <file name="finished-house-2017-crop-u170886.jpg" crc="3776041077" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="a56788472a77f38b12204034e4aeccde-crop-u173646.jpg" crc="183501244" seo="true" ref="index">
@@ -475,10 +499,10 @@
     <file name="wp2464244-crop-u17206_2x6.jpg" crc="4258980255" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="finished-house-2017-crop-u171146.jpg" crc="4016578401" seo="true" ref="index">
+    <file name="finished-house-2017-crop-u171146.jpg" crc="3783920862" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="finished-house-2017-crop-u17114_2x6.jpg" crc="4010896545" seo="true" ref="index">
+    <file name="finished-house-2017-crop-u17114_2x6.jpg" crc="200681620" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="house-background_015635614_148-crop-u172986.jpg" crc="153580300" seo="true" ref="index">
@@ -507,8 +531,6 @@
     <file name="mp900411828_2x.jpg" crc="324724554" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="8fec7442427245a116c23bb07a715374-u2376-fr4.jpg" crc="4235825597" ref="index"/>
-    <file name="8fec7442427245a116c23bb07a715374-u2376-fr_2x4.jpg" crc="3992471173" ref="index"/>
     <file name="architect-blueprint-u8813-fr.jpg" crc="107289277" ref="index"/>
     <file name="architect-blueprint-u8813-fr_2x.jpg" crc="91784993" ref="index"/>
     <file name="investment-strategy-u11593-fr2.jpg" crc="3825489753" ref="index"/>
@@ -518,7 +540,7 @@
     <file name="building_house_cottage_style_design_49252_1920x1080-crop-u167627.jpg" crc="77703770" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="finished-house-2017-crop-u170887.jpg" crc="38150934" seo="true" ref="index">
+    <file name="finished-house-2017-crop-u170887.jpg" crc="3776041077" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="a56788472a77f38b12204034e4aeccde-crop-u173647.jpg" crc="183501244" seo="true" ref="index">
@@ -545,10 +567,10 @@
     <file name="wp2464244-crop-u17206_2x7.jpg" crc="4258980255" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="finished-house-2017-crop-u171147.jpg" crc="4016578401" seo="true" ref="index">
+    <file name="finished-house-2017-crop-u171147.jpg" crc="3783920862" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="finished-house-2017-crop-u17114_2x7.jpg" crc="4010896545" seo="true" ref="index">
+    <file name="finished-house-2017-crop-u17114_2x7.jpg" crc="200681620" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="house-background_015635614_148-crop-u172987.jpg" crc="153580300" seo="true" ref="index">
@@ -582,7 +604,7 @@
     <file name="building_house_cottage_style_design_49252_1920x1080-crop-u167628.jpg" crc="77703770" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="finished-house-2017-crop-u170888.jpg" crc="38150934" seo="true" ref="index">
+    <file name="finished-house-2017-crop-u170888.jpg" crc="3776041077" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="a56788472a77f38b12204034e4aeccde-crop-u173648.jpg" crc="183501244" seo="true" ref="index">
@@ -609,10 +631,10 @@
     <file name="wp2464244-crop-u17206_2x8.jpg" crc="4258980255" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="finished-house-2017-crop-u171148.jpg" crc="4016578401" seo="true" ref="index">
+    <file name="finished-house-2017-crop-u171148.jpg" crc="3783920862" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="finished-house-2017-crop-u17114_2x8.jpg" crc="4010896545" seo="true" ref="index">
+    <file name="finished-house-2017-crop-u17114_2x8.jpg" crc="200681620" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="house-background_015635614_148-crop-u172988.jpg" crc="153580300" seo="true" ref="index">
@@ -635,8 +657,6 @@
     </file>
     <file name="contact-us-background-u20075-fr3.jpg" crc="450012420" ref="index"/>
     <file name="contact-us-background-u20075-fr_2x3.jpg" crc="4156493554" ref="index"/>
-    <file name="8fec7442427245a116c23bb07a715374-u2376-fr5.jpg" crc="103603350" ref="index"/>
-    <file name="8fec7442427245a116c23bb07a715374-u2376-fr_2x5.jpg" crc="397482526" ref="index"/>
     <file name="architect-blueprint-u8813-fr3.jpg" crc="427927490" ref="index"/>
     <file name="architect-blueprint-u8813-fr_2x3.jpg" crc="4257564227" ref="index"/>
     <file name="investment-strategy-u11593-fr4.jpg" crc="4071707637" ref="index"/>
@@ -646,7 +666,7 @@
     <file name="building_house_cottage_style_design_49252_1920x1080-crop-u167629.jpg" crc="77703770" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="finished-house-2017-crop-u170889.jpg" crc="38150934" seo="true" ref="index">
+    <file name="finished-house-2017-crop-u170889.jpg" crc="3776041077" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="a56788472a77f38b12204034e4aeccde-crop-u173649.jpg" crc="183501244" seo="true" ref="index">
@@ -673,10 +693,10 @@
     <file name="wp2464244-crop-u17206_2x9.jpg" crc="4258980255" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="finished-house-2017-crop-u171149.jpg" crc="4016578401" seo="true" ref="index">
+    <file name="finished-house-2017-crop-u171149.jpg" crc="3783920862" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="finished-house-2017-crop-u17114_2x9.jpg" crc="4010896545" seo="true" ref="index">
+    <file name="finished-house-2017-crop-u17114_2x9.jpg" crc="200681620" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="house-background_015635614_148-crop-u172989.jpg" crc="153580300" seo="true" ref="index">
@@ -698,5 +718,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="480330599" seo="true" mt="1559145589811" redirect="true"/>
+  <file name="index.html" crc="3954277974" seo="true" mt="1566386869573" redirect="true"/>
 </manifest>

@@ -2,17 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://ishazre.com/index.html</loc>
-    <lastmod>2019-05-29</lastmod>
+    <lastmod>2019-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://ishazre.com/images/image012.gif</image:loc>
+      <image:loc>http://ishazre.com/images/buy-house-mod.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ishazre.com/images/image012_2x.gif</image:loc>
+      <image:loc>http://ishazre.com/images/undraw_ideas.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ishazre.com/images/laptop.svg</image:loc>
+      <image:loc>http://ishazre.com/images/vision.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ishazre.com/images/undraw_in_progress_ql66-(1).svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://ishazre.com/images/smartphone.svg</image:loc>
@@ -82,6 +85,12 @@
     </image:image>
     <image:image>
       <image:loc>http://ishazre.com/images/thumb-1920-435117-crop-u17482_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ishazre.com/images/image012.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ishazre.com/images/image012_2x.gif</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://ishazre.com/images/building_house_cottage_style_design_49252_1920x1080-crop-u167622.jpg</image:loc>
