@@ -524,5 +524,11 @@
     <image:image>
       <image:loc>http://ishazre.com/images/thumb-1920-435117-crop-u17482_2x9.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://ishazre.com/images/undraw_contact_us_15o2.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ishazre.com/images/undraw_air_support_wy1q.svg</image:loc>
+    </image:image>
   </url>
 </urlset>
